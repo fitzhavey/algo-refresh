@@ -1,6 +1,6 @@
 # Hello World
 
-The key tenents of working at Meta are:
+The key tenets of working at Meta are:
 
 - **Communication**
 - **Eagerness**
