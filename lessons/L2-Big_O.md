@@ -1,5 +1,7 @@
 # Big O Notation
 
+Big O is the language engineers use to describe an algorithm's efficiency. Are our optimizations helping or hurting? They allow us to tackle this question without a timer.
+
 Big O is all about which approach is faster or more space efficient when things get really big. "O" means "order of" and applies to space (memory) and time (execution length).
 
 Be very sure to thoroughly define "N" when discussing Big O.

@@ -1,5 +1,7 @@
 # Coding
 
+Of course, you need to code in interviews. That doesn't mean you're expected to type things up perfectly and then run your code.
+
 ## Expectations
 
 Perfect candidates are awesome, but rare. The interviewer just wants to make sure you are a good coder.

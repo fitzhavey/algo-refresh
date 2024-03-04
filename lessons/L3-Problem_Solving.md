@@ -1,4 +1,8 @@
-# Priblem Solving
+# Problem Solving
+
+You may have heard the expression: "it's the journey, not the destination." This is very true of interviews too. Problem-solving questions can be challenging. But, they are about your process, not knowing the "right" answers.
+
+## 7 Steps
 
 The process is vital:
 
