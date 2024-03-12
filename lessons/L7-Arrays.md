@@ -38,3 +38,23 @@ Extra tips:
 - in a situation where you have to modify an array, such as rotating, you might find virtually modifying the indexes computationally cheaper
 - be comfortable working with subarrays and matrices
 - know when to use a hash table instead
+
+## Quiz
+
+1. Which of the following are benefits of dynamically resizable arrays (also known as array lists) over fixed-size arrays?
+    - [ ] It is faster to find an element by value in a dynamic array.
+    - [ ] Dynamic arrays use less memory.
+    - [x] Appending an element is faster, on average.
+    - [ ] Getting the length of the array is faster, on average.
+
+2. You have a sorted array, with an empty space at the end. You want to insert an element into the array by doing a binary search to find the location, and then shifting the remaining elements over. What is the runtime for this algorithm?
+    - [ ] O(log N)
+    - [ ] O(1)
+    - [ ] O(N)
+    - [ ] O(N^2)
+
+3. You have a sorted list of numbers, and you wish to find the median element. The median is defined to the middle value (if the array is of odd length) or the average of the middle two elements (if the array is of even length). If the length of an array A is N, and N is odd, which of the following will give the median element? Assume indices are 0-indexed.
+    - [ ] A[floor((N + 1))/2]
+    - [ ] A[ceiling((N + 1) / 2)]
+    - [ ] A[ceiling(N/2)]
+    - [x] A[floor(N/2)]
