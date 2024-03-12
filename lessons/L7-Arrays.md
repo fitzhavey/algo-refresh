@@ -50,7 +50,7 @@ Extra tips:
 2. You have a sorted array, with an empty space at the end. You want to insert an element into the array by doing a binary search to find the location, and then shifting the remaining elements over. What is the runtime for this algorithm?
     - [ ] O(log N)
     - [ ] O(1)
-    - [ ] O(N)
+    - [x] O(N)
     - [ ] O(N^2)
 
 3. You have a sorted list of numbers, and you wish to find the median element. The median is defined to the middle value (if the array is of odd length) or the average of the middle two elements (if the array is of even length). If the length of an array A is N, and N is odd, which of the following will give the median element? Assume indices are 0-indexed.
