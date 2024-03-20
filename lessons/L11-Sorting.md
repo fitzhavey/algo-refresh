@@ -97,6 +97,7 @@ It's important not just to be comfortable with these sorting algorithms but also
 ## Quiz
 
 1. You’re working in a mysterious programming language and you notice that array.sort is usually pretty fast, even with a large dataset. (That is, it seems comparable to sorts running with O(N log N) time complexity.) However, when applied to an array that’s already sorted, this array.sort becomes much slower. Which of the following sorting algorithms is most likely to be underlying array.sort?
+
     - [ ] selection sort
     - [x] quick sort
     - [ ] merge sort
